@@ -2,7 +2,7 @@
 name = "pubmed-paper-fetcher"
 version = "0.1.0"
 description = "Fetch PubMed papers with non-academic authors"
-authors = ["Your Name <you@example.com>"]
+authors = ["Nalla Soumika <soumikanalla15@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
